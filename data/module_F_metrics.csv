@@ -1,9 +1,9 @@
 metric,value
-Prediction_MAE_uA,1.180534300004882
+Prediction_MAE_uA,1.1805343000048822
 Prediction_RMSE_uA,3.1205541346893737
 Prediction_R2,0.9387674825606672
 Prediction_Error_P50_uA,0.3317705758618201
-Prediction_Error_P90_uA,2.9359916827424475
+Prediction_Error_P90_uA,2.9359916827424466
 Prediction_Error_P95_uA,5.308105697993845
 Failure_Accuracy,0.999
 Failure_Precision,0.9850746268656716
